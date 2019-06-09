@@ -1,3 +1,3 @@
-export const url = process.env.STUDENT_URL
-export const port = process.env.STUDENT_PORT
-export const entryPoint = process.env.STUDENT_ENTRY
+export const url = process.env.STUDENTS_URL
+export const port = process.env.STUDENTS_PORT
+export const entryPoint = process.env.STUDENTS_ENTRY
